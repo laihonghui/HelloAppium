@@ -1,8 +1,3 @@
-Hi Folks,
-
-This project is created while the book Mobile Test automation with Appium was being authored. Since I have used Mac OSX,
-most of the project path are local to my machine.
-
 I. This project contains the below items:
 
     1. app folder - It contains the app under test
@@ -53,10 +48,3 @@ V. I have also included cucumber-sandwich.jar to generate beautiful HTML reports
     2. on the terminal, type in the below command
         java -jar cucumber-sandwich.jar -n -f build/reports/cucumber -o output/report
     3. This will create a report in output/report folder of the current directory
-
-
-This pretty much completes the project. For any support with respect to the book,
-you can reach out to me on my email id: nishuverma@gmail.com
-
-Happy Reading !
-Nishant Verma!
